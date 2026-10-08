@@ -1,0 +1,14 @@
+[
+    {
+        "tipe": "Pemasukan",
+        "keterangan": "Uang mamah",
+        "saldo": 400000.0,
+        "tanggal": "09-10-2026"
+    },
+    {
+        "tipe": "Pengeluaran",
+        "keterangan": "2000",
+        "saldo": 23000.0,
+        "tanggal": "09-10-2026"
+    }
+]
